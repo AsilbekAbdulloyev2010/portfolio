@@ -7,14 +7,14 @@
     scroll-behavior: smooth;
 }
 body {
-    background-image: url(https://images.unsplash.com/photo-1687904477461-3b38aeef9e54?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aWNlJTIwbW91bnRhaW58ZW58MHx8MHx8fDA%3D);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW9h4fU35Nb2lGTCcT-GS1pVkWd5gqV0yegw&s);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     margin: 0 auto;
 }
 .bg-rgba {
-    background: rgba(2, 2, 27, 0.818);
+    background: rgb(8, 86, 102);
     max-width: 1440px;
     height: auto;
     margin: 0 auto;
@@ -46,7 +46,7 @@ body {
     margin-left: 50px;
 }
 .rasmim {
-    background-image: url(img/Itachi.jpg);
+    background-image: url(img/5072860.png);
     width: 250px;
     height: 250px;
     border-radius: 100%;
@@ -85,7 +85,7 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;
     font-size: larger;
-    color: rgb(77, 109, 202);
+    color: rgb(30, 137, 219);
 }
 .education__h3 {
     color: white;
